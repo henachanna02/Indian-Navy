@@ -1,17 +1,10 @@
 # Indian-Navy
 <html>
-
-<body>
-
 <table>
-
 <b><i>Indian Navy</i></b>
-
 <tr>
-
 <th><b>page title</b></th>
 </tr>
-
 <tr>
 
 <th>page title</th>
@@ -97,6 +90,5 @@ This leads to a faster page loading time than average.</td><br>
 
 </table>
 
-</body>
 
 </html>
