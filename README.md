@@ -88,6 +88,6 @@
 <td> Your HTML size is 10.64 Kb and this is under the average web page size of 33 Kb. 
 This leads to a faster page loading time than average.</td><br>
 </tr>
-</table>
 </body>
+</table>
 </html>
