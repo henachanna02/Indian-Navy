@@ -16,7 +16,7 @@
 <tr>
 
 <th>Meta Description</th>
-<td>Most search engines will truncate meta descriptions to 160 characters.<td>
+<td>Most search engines will truncate meta descriptions to 160 characters.</td>
 
 
 </tr>
@@ -47,7 +47,7 @@
 
 <tr>
 
-<th>HTML Compreession Test</th>
+<th>HTML Compression Test</th>
 
 <td>GZip Compression</td>
 
