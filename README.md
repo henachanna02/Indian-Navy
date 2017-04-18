@@ -1,6 +1,6 @@
 # Indian-Navy
 <html>
-#<b><i>Indian Navy</i></b>
+<MARQUEE><b><i>Indian Navy</i></b></MARQUEE>
 <table>
 <tr>
 <th><b>Page Title</b></th>
